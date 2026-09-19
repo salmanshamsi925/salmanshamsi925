@@ -35,6 +35,16 @@ I am an **AI Engineer** focused on developing, evaluating, and deploying intelli
 
 ---
 
+### 🔥 GitHub Streak & Engineering Activity
+
+<div align="center">
+  <a href="https://github.com/salmanshamsi925">
+    <img src="https://streak-stats.demolab.com?user=salmanshamsi925&theme=tokyonight&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakNum=38bdf8" alt="Salman's GitHub Streak" width="520" />
+  </a>
+</div>
+
+---
+
 ### 🎯 Core AI Capabilities & Focus Areas
 
 <table>
