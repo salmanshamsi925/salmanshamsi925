@@ -1,11 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Salman%20Ahmed&fontSize=65&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20LLMs%20%26%20Intelligent%20Systems&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" alt="AI Engineer Header Banner" />
+  <h1>👋 Hi, I'm <span style="color:#f59e0b;">Salman Ahmed</span></h1>
+  <h3>🤖 AI Engineer & Machine Learning Specialist</h3>
+  <p><i>Designing & Building Intelligent Systems • Deep Learning • Generative AI & LLMs • Scalable Data Pipelines</i></p>
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/salmanshamsi925">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Machine+Learning+Specialist;Building+Intelligent+Agents+%26+LLM+Pipelines;Deep+Learning%2C+NLP+%26+Computer+Vision;Python%2C+PyTorch+%26+Modern+AI+Frameworks;Turning+Complex+Data+into+Intelligent+Solutions" alt="AI Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=AI+Engineer+%26+Machine+Learning+Specialist;Building+Intelligent+Agents+%26+LLM+Pipelines;Deep+Learning%2C+NLP+%26+Computer+Vision;Python%2C+PyTorch+%26+Modern+AI+Frameworks;Turning+Complex+Data+into+Intelligent+Solutions" alt="AI Typing SVG" />
   </a>
 
   <br/><br/>
@@ -24,21 +25,52 @@
 
 ### 🧠 About Me
 
-I am an **AI Engineer** passionate about designing and deploying intelligent systems, machine learning architectures, and generative AI solutions. My work centers on building reliable models, fine-tuning neural networks, engineering scalable data pipelines, and transforming cutting-edge AI research into high-impact applications.
+I am an **AI Engineer** focused on developing, evaluating, and deploying intelligent machine learning systems and generative AI applications. I specialize in turning complex datasets into high-performance models, designing robust data processing pipelines, and bridging the gap between cutting-edge AI research and production-grade software solutions.
 
-- 🤖 **Focus Areas:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), and Computer Vision.
-- 💡 **Core Expertise:** Model Training & Fine-Tuning, Feature Engineering, Neural Architectures, Prompt Engineering, and High-Performance Python.
-- 🔬 **Research & Practice:** Data Preprocessing, Loss Function Optimization, Hyperparameter Tuning, and Scalable Model Inference.
-- 🎯 **Career Mission:** Creating responsible, ethical, and performant AI systems that solve complex, real-world problems.
-- 💬 **Ask Me About:** Python for AI, Neural Networks, PyTorch, Transformers, LLM Orchestration, and Data Pipelines.
+- 🤖 **Core Focus:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), and Computer Vision.
+- 💡 **Key Strengths:** Neural Architecture Design, Data Preprocessing, Feature Engineering, Model Optimization, and Scalable Python Architecture.
+- 🔬 **Engineering Approach:** Combining rigorous mathematical foundations with modern frameworks to deliver reliable, explainable, and ethical AI solutions.
+- 🎯 **Career Goal:** Building transformative AI technologies that automate complex workflows and empower data-driven decision making.
+- 💬 **Let's Discuss:** Deep Learning Architectures, LLM Fine-Tuning & Prompt Pipelines, Neural Networks, and AI System Design.
 
 ---
 
-### 🛠️ AI & Machine Learning Toolkit
+### 🎯 Core AI Capabilities & Focus Areas
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Deep Learning & Neural Networks</h4>
+      <p>Architecting and training deep neural models for regression, classification, and sequence prediction using modern loss functions and optimization techniques.</p>
+      <b>Key Tools:</b> <code>PyTorch</code> • <code>TensorFlow</code> • <code>Keras</code> • <code>ANN / CNN / RNN</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 NLP & Large Language Models (LLMs)</h4>
+      <p>Engineering intelligent conversational agents, prompt orchestration pipelines, text classification, and embedding-based semantic retrieval systems.</p>
+      <b>Key Tools:</b> <code>Hugging Face</code> • <code>LangChain</code> • <code>Transformers</code> • <code>OpenAI / Anthropic</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👁️ Computer Vision</h4>
+      <p>Preprocessing visual data, feature extraction, object detection, and transfer learning for high-accuracy image analysis and automated recognition.</p>
+      <b>Key Tools:</b> <code>OpenCV</code> • <code>CNNs</code> • <code>Transfer Learning</code> • <code>Image Segmentation</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Data Pipelines & Machine Learning</h4>
+      <p>Building end-to-end data pipelines: data cleaning, exploratory data analysis (EDA), cross-validation, and production model inference.</p>
+      <b>Key Tools:</b> <code>Scikit-Learn</code> • <code>NumPy</code> • <code>Pandas</code> • <code>REST APIs</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ AI & Engineering Toolkit
 
 <div align="center">
 
-#### **Programming & Core AI**
+#### **Programming & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -59,36 +91,14 @@ I am an **AI Engineer** passionate about designing and deploying intelligent sys
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=black)
 
-#### **Data & Backend Infrastructure**
+#### **Data Storage & Development Tools**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=salmanshamsi925&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=f59e0b&icon_color=38bdf8" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshamsi925&layout=compact&theme=tokyonight&hide_border=true&title_color=f59e0b" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanshamsi925&theme=tokyonight&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakNum=38bdf8" alt="GitHub Streak" width="550" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -100,15 +110,15 @@ class AIEngineer:
     def __init__(self):
         self.name = "Salman Ahmed"
         self.role = "AI Engineer"
-        self.focus_areas = [
-            "Deep Learning & Neural Architectures",
-            "Natural Language Processing & Large Language Models",
-            "Computer Vision & Generative AI",
-            "Data Preprocessing & Robust Feature Engineering"
+        self.core_principles = [
+            "Data quality over quantity — clean data drives model excellence",
+            "Model explainability, ethics, and production reliability",
+            "Continuous experimentation, benchmarking, and optimization",
+            "Bridging cutting-edge AI research to real-world impact"
         ]
 
-    def solve(self, complex_problem):
-        data = self.preprocess_and_clean(complex_problem)
+    def solve(self, business_problem):
+        data = self.preprocess_and_clean(business_problem)
         model = self.train_evaluate_optimize(data)
         return self.deploy_intelligent_system(model)
 ```
